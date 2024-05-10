@@ -1,0 +1,12 @@
+*{
+    background-color: black;
+    color: white;
+
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: red;
+}
