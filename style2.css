@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+#images {
+    height: 200px;
+    background-size: cover;
+}
+
+.one{
+    color: red;
+    text-transform: capitalize;
+    text-decoration-color: white;
+    text-decoration-line: underline;
+}
+
