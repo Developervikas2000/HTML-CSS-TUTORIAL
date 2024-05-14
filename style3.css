@@ -1,0 +1,41 @@
+*{
+    background-color: black;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+table {
+    border-style: solid;
+    border-color: brown;
+    width: 600px;
+    height: 300px;
+    margin-top: 0px;
+    border-width: 3px;
+}
+
+th{
+    border-style: solid;
+    border-color: yellow;
+    width: 30px;
+    height: 20px;
+    vertical-align: middle;
+    background-color: green;
+    border-collapse: collapse;
+}
+
+td{
+    border-style: solid;
+    border-color:greenyellow;
+    /* width: 30px;
+    height: 20px; */
+    border-collapse: collapse;
+    vertical-align: top;
+    padding-left: 5px;
+    
+}
+
+iframe{
+    margin-top: 200px;
+}
+
