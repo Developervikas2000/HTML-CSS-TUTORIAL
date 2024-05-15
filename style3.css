@@ -14,28 +14,15 @@ table {
     border-width: 3px;
 }
 
-th{
+th, td{
     border-style: solid;
     border-color: yellow;
     width: 30px;
     height: 20px;
     vertical-align: middle;
-    background-color: green;
+    background-color:transparent;
     border-collapse: collapse;
-}
-
-td{
-    border-style: solid;
-    border-color:greenyellow;
-    /* width: 30px;
-    height: 20px; */
-    border-collapse: collapse;
-    vertical-align: top;
-    padding-left: 5px;
     
 }
 
-iframe{
-    margin-top: 200px;
-}
 
